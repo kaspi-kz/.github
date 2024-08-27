@@ -1,1 +1,1 @@
-# .github
+# Kaspi.kz
