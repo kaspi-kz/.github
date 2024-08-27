@@ -1,1 +1,0 @@
-# Kaspi.kz
